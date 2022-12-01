@@ -16,7 +16,6 @@ Requirements
 Role Variables
 --------------
 ```
----
 vector_version: '0.25.1'. <-- default  
 
 vector_package: 'vector-{{ vector_version }}.rpm'  
