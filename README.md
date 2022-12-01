@@ -20,8 +20,6 @@ vector_url: 'https://packages.timber.io/vector/{{ vector_version }}/vector-{{ ve
 Dependencies
 ------------
 
-Роль устанавливает Vector на EL системы.
-Скачивает и устанавливает пакет.
 
 Example Playbook
 ----------------
