@@ -5,11 +5,14 @@ vector-role
 
 Requirements
 ------------
+
+```
 ---
   - src: git@github.com:IgorVityukhovsky/vector-role.git
     scm: git
     version: "0.25.1"
     name: vector-role
+```
 
 Role Variables
 --------------
