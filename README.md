@@ -6,7 +6,7 @@ vector-role
 Requirements
 ------------
 
-```
+```yaml
 ---
   - src: git@github.com:IgorVityukhovsky/vector-role.git
     scm: git
